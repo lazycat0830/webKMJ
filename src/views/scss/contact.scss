@@ -1,0 +1,21 @@
+.toLine,.toFB{
+    height: 90%;
+    width: 80%;
+    img{
+        object-fit:scale-down;
+    }
+}
+.light-green {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    background-color: #002a79d2;
+  }
+  .green {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    background-color: #0080003d;
+  }
